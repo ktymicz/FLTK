@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title=" test" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ test" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="Z:/Stroustrup Code/PPP2code" />
+				</Compiler>
+				<Linker>
+					<Add library="fltk_images" />
+					<Add library="fltk_png" />
+					<Add library="fltk_z" />
+					<Add library="fltk_jpeg" />
+					<Add library="fltk" />
+					<Add library="ole32" />
+					<Add library="uuid" />
+					<Add directory="Z:/Stroustrup Code/PPP2code" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/ test" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-s" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-DWIN32" />
+			<Add option="-mms-bitfields" />
+			<Add directory="C:/MinGW/msys/1.0/local/include" />
+		</Compiler>
+		<Linker>
+			<Add library="fltk" />
+			<Add library="ole32" />
+			<Add library="uuid" />
+			<Add library="comctl32" />
+			<Add library="wsock32" />
+			<Add library="m" />
+			<Add library="gdi32" />
+			<Add library="user32" />
+			<Add library="kernel32" />
+			<Add directory="C:/MinGW/msys/1.0/local/lib" />
+		</Linker>
+		<Unit filename="../../Stroustrup Code/PPP2code/GUI.cpp" />
+		<Unit filename="../../Stroustrup Code/PPP2code/Graph.cpp" />
+		<Unit filename="../../Stroustrup Code/PPP2code/Graph.h" />
+		<Unit filename="../../Stroustrup Code/PPP2code/Gui.h" />
+		<Unit filename="../../Stroustrup Code/PPP2code/Point.h" />
+		<Unit filename="../../Stroustrup Code/PPP2code/Simple_window.h" />
+		<Unit filename="../../Stroustrup Code/PPP2code/Window.cpp" />
+		<Unit filename="../../Stroustrup Code/PPP2code/Window.h" />
+		<Unit filename="../../Stroustrup Code/PPP2code/fltk.h" />
+		<Unit filename="../../Stroustrup Code/PPP2code/std_lib_facilities.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,204 @@
+# depslib dependency file v1.0
+1626445981 source:z:\codeblocks\ test\main.cpp
+	<iostream>
+	<vector>
+	<math.h>
+	"Simple_window.h"
+	"Graph.h"
+
+1623242390 z:\stroustrup code\ppp2code\simple_window.h
+	"GUI.h"
+
+1623262255 z:\stroustrup code\ppp2code\gui.h
+	"Window.h"
+	"Graph.h"
+
+1199141882 z:\stroustrup code\ppp2code\window.h
+	"fltk.h"
+	"std_lib_facilities.h"
+	"Point.h"
+
+1623268131 z:\stroustrup code\ppp2code\fltk.h
+	"FL/Fl.H"
+	"FL/Fl_Window.H"
+	"FL/Fl_Button.H"
+	"FL/Fl_Input.H"
+	"FL/Fl_Output.H"
+	<cstdlib>
+	"FL/fl_draw.H"
+	"FL/Enumerations.H"
+	"Fl/Fl_JPEG_Image.H"
+	"Fl/Fl_GIF_Image.H"
+
+1623064462 c:\mingw\msys\1.0\local\include\fl\fl.h
+	<FL/Fl_Export.H>
+	<FL/Fl_Cairo.H>
+	"fl_utf8.h"
+	"Enumerations.H"
+	<stdio.h>
+	<FL/Fl.H>
+	<FL/Fl_Window.H>
+
+1623064462 c:\mingw\msys\1.0\local\include\fl\fl_export.h
+
+1623064462 c:\mingw\msys\1.0\local\include\fl\fl_cairo.h
+	<FL/Fl_Export.H>
+	<cairo.h>
+
+1623064466 c:\mingw\msys\1.0\local\include\fl\fl_utf8.h
+	"Fl_Export.H"
+	"fl_types.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<locale.h>
+	<ctype.h>
+	<wchar.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<X11/Xlocale.h>
+	<X11/Xlib.h>
+	<locale.h>
+
+1623064466 c:\mingw\msys\1.0\local\include\fl\fl_types.h
+
+1623064462 c:\mingw\msys\1.0\local\include\fl\enumerations.h
+	<FL/abi-version.h>
+	"Fl_Export.H"
+	"fl_types.h"
+
+1623064466 c:\mingw\msys\1.0\local\include\fl\abi-version.h
+
+1623064465 c:\mingw\msys\1.0\local\include\fl\fl_window.h
+	<windows.h>
+	"Fl_Group.H"
+	"Fl_Bitmap.H"
+	<stdlib.h>
+
+1623064463 c:\mingw\msys\1.0\local\include\fl\fl_group.h
+	"Fl_Widget.H"
+
+1623064465 c:\mingw\msys\1.0\local\include\fl\fl_widget.h
+	"Enumerations.H"
+	<stdint.h>
+	<stddef.h>
+
+1623064462 c:\mingw\msys\1.0\local\include\fl\fl_bitmap.h
+	"Fl_Image.H"
+
+1623064463 c:\mingw\msys\1.0\local\include\fl\fl_image.h
+	"Enumerations.H"
+	<stdlib.h>
+
+1623064462 c:\mingw\msys\1.0\local\include\fl\fl_button.h
+	"Fl_Widget.H"
+
+1623064463 c:\mingw\msys\1.0\local\include\fl\fl_input.h
+	"Fl_Input_.H"
+
+1623064463 c:\mingw\msys\1.0\local\include\fl\fl_input_.h
+	"Fl_Widget.H"
+
+1623064464 c:\mingw\msys\1.0\local\include\fl\fl_output.h
+	"Fl_Input.H"
+
+1623064466 c:\mingw\msys\1.0\local\include\fl\fl_draw.h
+	<FL/x.H>
+	<FL/Enumerations.H>
+	<FL/Fl_Window.H>
+	<FL/Fl_Device.H>
+
+1623064466 c:\mingw\msys\1.0\local\include\fl\x.h
+	"Enumerations.H"
+	"win32.H"
+	"mac.H"
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xatom.h>
+	"Fl_Window.H"
+
+1623064466 c:\mingw\msys\1.0\local\include\fl\win32.h
+	<windows.h>
+	<FL/Fl_Window.H>
+
+1623064466 c:\mingw\msys\1.0\local\include\fl\mac.h
+	<FL/Fl_Widget.H>
+	<ApplicationServices/ApplicationServices.h>
+	"Fl_Window.H"
+	"../src/Fl_Font.H"
+
+1623064462 c:\mingw\msys\1.0\local\include\fl\fl_device.h
+	<FL/x.H>
+	<FL/Fl_Plugin.H>
+	<FL/Fl_Image.H>
+	<FL/Fl_Bitmap.H>
+	<FL/Fl_Pixmap.H>
+	<FL/Fl_RGB_Image.H>
+	<stdlib.h>
+
+1623064464 c:\mingw\msys\1.0\local\include\fl\fl_plugin.h
+	"Fl_Preferences.H"
+
+1623064464 c:\mingw\msys\1.0\local\include\fl\fl_preferences.h
+	<stdio.h>
+	"Fl_Export.H"
+
+1623064464 c:\mingw\msys\1.0\local\include\fl\fl_pixmap.h
+	"Fl_Image.H"
+	"x.H"
+
+1623064464 c:\mingw\msys\1.0\local\include\fl\fl_rgb_image.h
+	"Fl_Image.H"
+
+1623064463 c:\mingw\msys\1.0\local\include\fl\fl_jpeg_image.h
+	"Fl_Image.H"
+
+1623064463 c:\mingw\msys\1.0\local\include\fl\fl_gif_image.h
+	"Fl_Pixmap.H"
+
+1623245369 z:\stroustrup code\ppp2code\std_lib_facilities.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<string>
+	<list>
+	<forward_list>
+	<vector>
+	<unordered_map>
+	<algorithm>
+	<array>
+	<regex>
+	<random>
+	<stdexcept>
+
+1623247290 z:\stroustrup code\ppp2code\point.h
+
+1623262257 z:\stroustrup code\ppp2code\graph.h
+	<FL/fl_draw.H>
+	<FL/Fl_Image.H>
+	"std_lib_facilities.h"
+	"Point.h"
+
+1623264487 source:z:\stroustrup code\ppp2code\graph.cpp
+	<FL/Fl_GIF_Image.H>
+	<FL/Fl_JPEG_Image.H>
+	"Graph.h"
+	<map>
+
+1623262287 source:z:\stroustrup code\ppp2code\gui.cpp
+	<FL/Fl.H>
+	<FL/Fl_Button.H>
+	<FL/Fl_Output.H>
+	"GUI.h"
+
+1211307818 source:z:\stroustrup code\ppp2code\window.cpp
+	"Window.h"
+	"Graph.h"
+	"GUI.h"
+
