@@ -1,6 +1,6 @@
 ** How to make fltk work on CodeBlocks with FLTK project 
 You must have installed FLTK libraries and MinGW.
-// http://gintasdx.althirius-studios.com/2011/08/tutorial-codeblocks-with-fltk.html
+
 // tested on fltk-1.3.6 and gcc 9.2.0
 
 left corner first tab
@@ -26,7 +26,8 @@ fltk
 ole32
 uuid
 
-
+more details you can find at link below
+http://gintasdx.althirius-studios.com/2011/08/tutorial-codeblocks-with-fltk.html
 
 ** If you use B. Stroustrup code or your code 
 you need to add files
