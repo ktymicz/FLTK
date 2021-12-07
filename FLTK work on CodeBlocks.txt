@@ -16,6 +16,8 @@ NEXT in the Management window
 select Procjects tab
 and in the workspace of projects:
 right click on your project and click "Build options"
+In the window "Project build options"
+select project name next 
 select tab "linker settings"
 click "add" to "link libraries":
 fltk_images
