@@ -1,5 +1,6 @@
 ** How to make fltk work on CodeBlocks with FLTK project 
 You must have installed FLTK libraries and MinGW.
+// http://gintasdx.althirius-studios.com/2011/08/tutorial-codeblocks-with-fltk.html
 // tested on fltk-1.3.6 and gcc 9.2.0
 
 left corner first tab
